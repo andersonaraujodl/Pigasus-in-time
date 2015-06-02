@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Pigasus_in_Time</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/PigasusInTime/fundo.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT_LOC/fundo.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/PigasusInTime/pigasus.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT_LOC/pigasus.jpg</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
