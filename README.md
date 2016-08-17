@@ -5,7 +5,7 @@ _Pigasus in Time_ is a singleplayer game created as a school project for the Obj
 ## Getting Started
 
 * Clone the project to your machine;
-* Open your OO editor;
+* Open your _Eclipse_;
 * Import the project;
 * Run it;
 * Enjoy it.
@@ -22,6 +22,7 @@ If an obstacle hits the player, the game ends.
 ### Prerequisities
 
 * Windows 8 or higher
+* [Eclipse](https://eclipse.org/downloads/)
 
 ### Installing
 
